@@ -84,3 +84,8 @@ Then, plug in any other peripherals, such as your mouse, keyboard, and monitor.
 ![plugcom](https://www.raspberrypi.com/documentation/computers/images/peripherals/cable-all.png?hash=99131f604cad98dc8eddc7daa0b7d20e)
 Finally, connect the power supply to your Raspberry Pi. You should see the status LED light up when your Pi powers on. If your Pi is connected to a display, you should see the boot screen within minutes.
 
+## Getting Help
+More documentation can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system)
+
+## Copyright
+Copyright OpenJS Foundation and other contributors, [https://www.raspberrypi.com/](https://www.raspberrypi.com/)
