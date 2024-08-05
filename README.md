@@ -1,4 +1,4 @@
-# raspi-install
+# Raspberry Pi Install
 
 [![youtube](http://img.youtube.com/vi/CQtliTJ41ZE/0.jpg)](http://www.youtube.com/watch?v=CQtliTJ41ZE)
 
