@@ -88,4 +88,4 @@ Finally, connect the power supply to your Raspberry Pi. You should see the statu
 More documentation can be found [here](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system)
 
 ## Copyright
-Copyright OpenJS Foundation and other contributors, [https://www.raspberrypi.com/](https://www.raspberrypi.com/)
+Copyright, [https://www.raspberrypi.com/](https://www.raspberrypi.com/)
